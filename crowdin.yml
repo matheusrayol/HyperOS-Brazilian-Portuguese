@@ -1,0 +1,5 @@
+files:
+  - source: /Source/main/**/values/*.xml
+    translation: /%language%/main/**/values-%android_code%/%original_file_name%
+  - source: /Source/main/extras/**/strings/strings.xml
+    translation: /%language%/main/extras/**/strings/strings_%locale_with_underscore%.xml
