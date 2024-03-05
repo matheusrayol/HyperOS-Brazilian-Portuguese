@@ -68,6 +68,10 @@
         <item quantity="one">Agora mesmo</item>
         <item quantity="other">Agora mesmo</item>
     </plurals>
+    <plurals name="local_main_backup_manage_summary">
+        <item quantity="other">%1$s\'Backups\'(%2$s)</item>
+        <item quantity="one">%1$s\'backup\'(%2$s)</item>
+    </plurals>
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">%d itens selecionados</item>
         <item quantity="one">%d item selecionado</item>
