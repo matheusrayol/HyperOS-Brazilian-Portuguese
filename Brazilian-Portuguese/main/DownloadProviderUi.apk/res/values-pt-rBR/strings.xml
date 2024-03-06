@@ -1,2 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="download_error">"Não foi possível fazer o download"</string>
+    <string name="download_filesize_unknown">Desconhecido</string>
+    <string name="download_no_application_title">"Não é possível abrir o arquivo"</string>
+    <string name="download_running">Fazendo o download</string>
+    <string name="paused_waiting_for_network">Aguardando rede</string>
+</resources>
