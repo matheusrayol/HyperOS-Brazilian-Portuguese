@@ -49,6 +49,10 @@
         <item>@string/chinese_digit_nine</item>
         <item>@string/chinese_digit_ten</item>
     </string-array>
+    <string-array name="miui_nature_sound_array">
+        <item>/system/media/audio/ui/WaterDrop_preview.ogg</item>
+        <item>/system/media/audio/ui/BirdCicada_preview.ogg</item>
+    </string-array>
     <string-array name="chinese_leap_months">
         <item>@string/empty</item>
         <item>@string/chinese_leap</item>
@@ -253,10 +257,6 @@
         <item>辛酉</item>
         <item>壬戌</item>
         <item>癸亥</item>
-    </string-array>
-    <string-array name="miui_nature_sound_array">
-        <item>/system/media/audio/ui/WaterDrop_preview.ogg</item>
-        <item>/system/media/audio/ui/BirdCicada_preview.ogg</item>
     </string-array>
     <string-array name="months">
         <item>@string/month_january</item>
