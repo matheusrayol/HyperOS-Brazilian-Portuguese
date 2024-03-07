@@ -32,7 +32,6 @@
     <string name="HIPS_Perm_Location">Obter informações de localização</string>
     <string name="HIPS_Perm_Location_Desc">obter informações precisas de localização (com base na rede e no GPS)</string>
     <string name="HIPS_Perm_NEARBY_DEVICES">Conectar a dispositivos próximos</string>
-    <string name="HIPS_Perm_NEARBY_DEVICES_Desc_T_china">Descobrir e conectar a dispositivos próximos por Bluetooth e Wi-Fi</string>
     <string name="HIPS_Perm_PhoneID">Acessar informações relacionadas a chamadas</string>
     <string name="HIPS_Perm_PhoneID_Desc">acessar o número do telefone, IMEI e IMSI</string>
     <string name="HIPS_Perm_PhoneID_Desc_Q">Acessar o número do telefone e status do dispositivo</string>
@@ -56,8 +55,6 @@
     <string name="HIPS_Perm_SystemAlert_Desc">Permite que apps exibam janelas pop-up</string>
     <string name="HIPS_Perm_VideoRecorder">Acessar a câmera</string>
     <string name="HIPS_Perm_VideoRecorder_Desc">acessar a câmera para captura de imagem ou vídeo</string>
-    <string name="HIPS_Perm_WIFI_Connectivity">Alterar a conectividade do Wi-Fi</string>
-    <string name="HIPS_Perm_WIFI_Connectivity_Desc">ativar ou desativar o Wi-Fi</string>
     <string name="HIPS_Perm_add_voicemail">Mensagens de voz</string>
     <string name="HIPS_Perm_add_voicemail_Desc">adicionar mensagens de voz do sistema</string>
     <string name="HIPS_Perm_background_start_activity">Abrir novas janelas enquanto executa em segundo plano</string>
@@ -231,10 +228,7 @@
     <string name="fmt_date_long_year_month_day">dd \'de\' MMMM \'de\' yyyy</string>
     <string name="fmt_date_numeric_day">d</string>
     <string name="fmt_date_numeric_month">MM</string>
-    <string name="fmt_date_numeric_month_day">d/M</string>
     <string name="fmt_date_numeric_year">yyyy</string>
-    <string name="fmt_date_numeric_year_month">MM/yyyy</string>
-    <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
     <string name="fmt_date_short_month">MMM</string>
     <string name="fmt_date_short_month_day">d/MM</string>
     <string name="fmt_date_short_year_month">MMM \'de\' yyyy</string>
@@ -252,10 +246,6 @@
     <string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string>
     <string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
     <string name="fmt_time_12hour_pm">hk</string>
-    <string name="fmt_time_24hour">"H 'o''clock'"</string>
-    <string name="fmt_time_24hour_minute">H:mm</string>
-    <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
-    <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
     <string name="fmt_time_millis">"S'ms'"</string>
     <string name="fmt_time_minute">"m'min'"</string>
     <string name="fmt_time_minute_second">"m'min' de"</string>
