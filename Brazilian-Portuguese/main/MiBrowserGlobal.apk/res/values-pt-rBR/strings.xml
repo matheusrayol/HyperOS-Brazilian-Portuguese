@@ -10,6 +10,7 @@
     <string name="abc_capital_on">ATIVADO</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
     <string name="mw_abc_action_bar_home_description">Navegar para a página inicial</string>
     <string name="mw_abc_action_bar_up_description">Navegar para cima</string>
     <string name="mw_abc_action_menu_overflow_description">Mais opções</string>
@@ -20,4 +21,5 @@
     <string name="mw_abc_capital_on">ATIVADO</string>
     <string name="mw_abc_menu_alt_shortcut_label">Alt+</string>
     <string name="mw_abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="mw_abc_menu_delete_shortcut_label">delete</string>
 </resources>
