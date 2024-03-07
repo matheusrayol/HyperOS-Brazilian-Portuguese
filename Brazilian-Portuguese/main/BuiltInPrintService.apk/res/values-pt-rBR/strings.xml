@@ -10,11 +10,8 @@
     <string name="connecting_to">Conectando-se a %1$s</string>
     <string name="connections">Conexões</string>
     <string name="connects_via_network">Conecta pela rede atual em %1$s</string>
-    <string name="connects_via_wifi_direct">Conecta por Wi-Fi Direct</string>
-    <string name="disable_wifi_direct">Desativar Wi-Fi Direct</string>
     <string name="failed_connection">Não foi possível conectar-se à %1$s</string>
     <string name="failed_printer_connection">Não foi possível conectar-se à impressora</string>
-    <string name="find_wifi_direct">Encontrar impressoras Wi-Fi Direct</string>
     <string name="fix">Revisar permissão</string>
     <string name="forget">Esquecer</string>
     <string name="hostname_or_ip">Nome do host ou endereço IP</string>
@@ -53,9 +50,5 @@
     <string name="title_activity_add_printer">Adicionar impressora</string>
     <string name="unreadable_input">Não foi possível ler o documento</string>
     <string name="waiting_to_send">Aguardando para enviar</string>
-    <string name="wifi_direct">Wi-Fi Direct</string>
     <string name="wifi_direct_permission_rationale">O Serviço Padrão de Impressão precisa de permissão de localização para encontrar dispositivos por perto.</string>
-    <string name="wifi_direct_printers">Impressoras Wi-Fi Direct</string>
-    <string name="wifi_direct_printing">Impressão por Wi-Fi Direct</string>
-    <string name="wifi_direct_problem">O serviço de impressão padrão não encontrou impressoras com Wi-Fi Direct</string>
 </resources>
