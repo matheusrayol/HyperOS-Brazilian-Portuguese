@@ -1,5 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="emailAddressTypes">
+        <item>Home</item>
+        <item>Work</item>
+        <item>Other</item>
+        <item>Custom</item>
+    </string-array>
+    <string-array name="imProtocols">
+        <item>AIM</item>
+        <item>Windows Live</item>
+        <item>Yahoo</item>
+        <item>Skype</item>
+        <item>QQ</item>
+        <item>Google Talk</item>
+        <item>ICQ</item>
+        <item>Jabber</item>
+    </string-array>
+    <string-array name="organizationTypes">
+        <item>Work</item>
+        <item>Other</item>
+        <item>Custom</item>
+    </string-array>
+    <string-array name="phoneTypes">
+        <item>Home</item>
+        <item>Mobile</item>
+        <item>Work</item>
+        <item>Work Fax</item>
+        <item>Home Fax</item>
+        <item>Pager</item>
+        <item>Other</item>
+        <item>Custom</item>
+    </string-array>
+    <string-array name="postalAddressTypes">
+        <item>Home</item>
+        <item>Work</item>
+        <item>Other</item>
+        <item>Custom</item>
+    </string-array>
+    <array name="config_keySystemUuidMapping" />
+    <array name="config_optionalIpSecAlgorithms" />
     <array name="carrier_properties" />
     <array name="cloneable_apps" />
     <array name="common_nicknames" />
@@ -289,7 +328,6 @@
     <array name="config_highRefreshRateBlacklist" />
     <array name="config_integrityRuleProviderPackages" />
     <array name="config_keep_warming_services" />
-    <array name="config_keySystemUuidMapping" />
     <integer-array name="config_keyboardTapVibePattern">
         <item>50</item>
     </integer-array>
@@ -431,7 +469,6 @@
     </string-array>
     <array name="config_oemUsbModeOverride" />
     <array name="config_openDeviceStates" />
-    <array name="config_optionalIpSecAlgorithms" />
     <array name="config_packagesExemptFromSuspension" />
     <array name="config_perDeviceStateRotationLockDefaults" />
     <array name="config_primaryCredentialProviderService" />
@@ -705,12 +742,6 @@
     <array name="disallowed_apps_managed_device" />
     <array name="disallowed_apps_managed_profile" />
     <array name="disallowed_apps_managed_user" />
-    <string-array name="emailAddressTypes">
-        <item>Home</item>
-        <item>Work</item>
-        <item>Other</item>
-        <item>Custom</item>
-    </string-array>
     <array name="face_acquired_vendor" />
     <array name="face_error_vendor" />
     <string-array name="fingerprint_acquired_vendor">
@@ -749,16 +780,6 @@
         <item>Other</item>
         <item>Custom</item>
     </string-array>
-    <string-array name="imProtocols">
-        <item>AIM</item>
-        <item>Windows Live</item>
-        <item>Yahoo</item>
-        <item>Skype</item>
-        <item>QQ</item>
-        <item>Google Talk</item>
-        <item>ICQ</item>
-        <item>Jabber</item>
-    </string-array>
     <integer-array name="low_lux_level">
         <item>1</item>
         <item>2</item>
@@ -791,7 +812,7 @@
     </string-array>
     <string-array name="network_switch_type_name">
         <item>mobile data</item>
-        <item>Wi-Fi</item>
+        <item>WLAN</item>
         <item>Bluetooth</item>
         <item>Ethernet</item>
         <item>VPN</item>
@@ -806,28 +827,7 @@
         <item>20404;suffix;BAE0000000000000</item>
     </string-array>
     <array name="non_removable_euicc_slots" />
-    <string-array name="organizationTypes">
-        <item>Work</item>
-        <item>Other</item>
-        <item>Custom</item>
-    </string-array>
-    <string-array name="phoneTypes">
-        <item>Home</item>
-        <item>Mobile</item>
-        <item>Work</item>
-        <item>Work Fax</item>
-        <item>Home Fax</item>
-        <item>Pager</item>
-        <item>Other</item>
-        <item>Custom</item>
-    </string-array>
     <array name="policy_exempt_apps" />
-    <string-array name="postalAddressTypes">
-        <item>Home</item>
-        <item>Work</item>
-        <item>Other</item>
-        <item>Custom</item>
-    </string-array>
     <array name="preloaded_color_state_lists">
         <item>@color/primary_text_dark</item>
         <item>@color/primary_text_dark_disable_only</item>
@@ -1647,7 +1647,7 @@
     <array name="vendor_required_apps_managed_user" />
     <array name="vendor_required_attestation_certificates" />
     <string-array name="wfcOperatorErrorAlertMessages">
-        <item>To make calls and send messages over Wi-Fi, first ask your carrier to set up this service. Then turn on Wi-Fi calling again from Settings. (Error code: %1$s)</item>
+        <item>To make calls and send messages over WLAN, first ask your carrier to set up this service. Then turn on WLAN calling again from Settings. (Error code: %1$s)</item>
     </string-array>
     <string-array name="wfcOperatorErrorNotificationMessages">
         <item>Issue registering Wi‑Fi calling with your carrier: %1$s</item>
