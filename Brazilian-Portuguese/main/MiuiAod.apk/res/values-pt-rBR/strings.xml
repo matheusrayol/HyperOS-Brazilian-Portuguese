@@ -1,6 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="abc_menu_shift_shortcut_label">Shift+</string>
-    <string name="abc_menu_space_shortcut_label">espaço</string>
-    <string name="abc_menu_sym_shortcut_label">Sym+</string>
-</resources>
+<resources></resources>
