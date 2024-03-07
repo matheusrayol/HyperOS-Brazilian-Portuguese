@@ -248,7 +248,7 @@ Do you want to exit now?} }"</string>
     <string name="bf_news_settings">Business and Financial News</string>
     <string name="business_hall_settings_summary">Control your calls and data usage</string>
     <string name="business_hall_settings_title">Carrier plan settings</string>
-    <string name="c_iwlan_channel_name">C_IWi-Fi</string>
+    <string name="c_iwlan_channel_name">C_IWLAN</string>
     <string name="c_iwlan_exit_notification_description">Disabling it might help acquire service.</string>
     <string name="c_iwlan_exit_notification_negative_button">DISMISS</string>
     <string name="c_iwlan_exit_notification_positive_button">OPEN SETTINGS</string>
@@ -287,7 +287,7 @@ Do you want to exit now?} }"</string>
     <string name="callFailed_dsac_restricted">Calls restricted by access control.</string>
     <string name="callFailed_dsac_restricted_emergency">Emergency calls restricted by access control.</string>
     <string name="callFailed_dsac_restricted_normal">Normal calls restricted by access control.</string>
-    <string name="callFailed_emergency_call_over_wfc_not_available">Emergency calls over Wi-Fi calling not available in this location.</string>
+    <string name="callFailed_emergency_call_over_wfc_not_available">Emergency calls over WLAN calling not available in this location.</string>
     <string name="callFailed_facility_rejected">Facility rejected</string>
     <string name="callFailed_fdn_only">Outgoing calls are restricted by FDN.</string>
     <string name="callFailed_imei_not_accepted">Unable to connect, please insert a valid SIM card.</string>
@@ -347,8 +347,8 @@ Do you want to exit now?} }"</string>
     <string name="callFailed_userBusy">Line busy</string>
     <string name="callFailed_user_not_member_of_CUG">User not member of CUG</string>
     <string name="callFailed_video_call_tty_enabled">Cannot make video calls when TTY is enabled.</string>
-    <string name="callFailed_wfc_service_not_available_in_this_location">Wi-Fi calling is not available in this location.</string>
-    <string name="callFailed_wifi_lost">Wi-Fi connection lost. Call ended.</string>
+    <string name="callFailed_wfc_service_not_available_in_this_location">WLAN calling is not available in this location.</string>
+    <string name="callFailed_wifi_lost">WLAN connection lost. Call ended.</string>
     <string name="callUnanswered_forwarded">Call Unanswered and Forwarded</string>
     <string name="call_advanced_setting_title">Advanced settings</string>
     <string name="call_barring">Call barring</string>
@@ -475,7 +475,7 @@ Do you want to exit now?} }"</string>
     <string name="cell_bc_sms_enable">Cell Broadcast SMS enabled</string>
     <string name="cell_broadcast_settings">Emergency broadcasts</string>
     <string name="cell_broadcast_sms">Cell Broadcast SMS</string>
-    <string name="cf_setting_mobile_data_alert">Please turn on mobile data and make sure that Wi-Fi is off</string>
+    <string name="cf_setting_mobile_data_alert">Please turn on mobile data and make sure that WLAN is off</string>
     <string name="cf_setting_mobile_data_roaming_alert">Please turn on data roaming</string>
     <string name="cfb_title">Forward when busy</string>
     <string name="cfnrc_title">Forward when unreachable</string>
@@ -683,8 +683,8 @@ Do you want to exit now?} }"</string>
     <string name="crescendo_ringer_summary">Ringtone volume will gradually grow to the level you set</string>
     <string name="crescendo_ringer_title">Increasing ringtone volume</string>
     <string name="ct_ut_not_support_close_4glte">UT is not available, please turn off Enhanced 4G LTE Mode in Settings</string>
-    <string name="data_disable_warning_no_mms">"You won't be able to send and receive MMS if you turn off mobile data (WCDMA/LTE). However, you'll be able to do that when your device is connected to Wi-Fi."</string>
-    <string name="data_disable_warning_with_mms">"You'll still be able to send and receive MMS if you turn off mobile data (WCDMA/LTE). To use the internet, connect to Wi-Fi."</string>
+    <string name="data_disable_warning_no_mms">"You won't be able to send and receive MMS if you turn off mobile data (WCDMA/LTE). However, you'll be able to do that when your device is connected to WLAN."</string>
+    <string name="data_disable_warning_with_mms">"You'll still be able to send and receive MMS if you turn off mobile data (WCDMA/LTE). To use the internet, connect to WLAN."</string>
     <string name="data_enable_always_warn">Ask whether to use mobile data</string>
     <string name="data_enable_summary">Allow this device to use mobile data</string>
     <string name="data_enable_warning">Allowing to always use mobile data may generate additional charges outside of your carrier plan. Connect anyway?</string>
@@ -1015,10 +1015,10 @@ Activate eSIM anyway?"</string>
     <string name="fmt_date_long_year_month_day">MMMM d, yyyy</string>
     <string name="fmt_date_numeric_day">d</string>
     <string name="fmt_date_numeric_month">M</string>
-    <string name="fmt_date_numeric_month_day">M/d</string>
+    <string name="fmt_date_numeric_month_day">M-d</string>
     <string name="fmt_date_numeric_year">yyyy</string>
-    <string name="fmt_date_numeric_year_month">M/yyyy</string>
-    <string name="fmt_date_numeric_year_month_day">M/d/yyyy</string>
+    <string name="fmt_date_numeric_year_month">M-yyyy</string>
+    <string name="fmt_date_numeric_year_month_day">M-d-yyyy</string>
     <string name="fmt_date_short_month">MMM</string>
     <string name="fmt_date_short_month_day">MMM d</string>
     <string name="fmt_date_short_year_month">MMM yyyy</string>
@@ -1036,10 +1036,10 @@ Activate eSIM anyway?"</string>
     <string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string>
     <string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
     <string name="fmt_time_12hour_pm">ha</string>
-    <string name="fmt_time_24hour">"HH 'o''clock'"</string>
-    <string name="fmt_time_24hour_minute">HH:mm</string>
-    <string name="fmt_time_24hour_minute_second">HH:mm:ss</string>
-    <string name="fmt_time_24hour_minute_second_millis">HH:mm:ss.S</string>
+    <string name="fmt_time_24hour">"H 'o''clock'"</string>
+    <string name="fmt_time_24hour_minute">H:mm</string>
+    <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
+    <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
     <string name="fmt_time_millis">"S'ms'"</string>
     <string name="fmt_time_minute">"m'min'"</string>
     <string name="fmt_time_minute_second">"m'min' s's'"</string>
@@ -1132,7 +1132,7 @@ Can't complete this call. Try again when your phone cools down.
 
 You can still make emergency calls."</string>
     <string name="incall_error_power_off_wfc">Turn off airplane mode or connect to a wireless network to make a call.</string>
-    <string name="incall_error_promote_wfc">Enable Wi-Fi calling to make a call.</string>
+    <string name="incall_error_promote_wfc">Enable WLAN calling to make a call.</string>
     <string name="incall_error_satellite_enabled">Disable satellite mode to make a call.</string>
     <string name="incall_error_supp_service_conference">Unable to merge calls.</string>
     <string name="incall_error_supp_service_hangup">"Can't release call(s)."</string>
@@ -1637,7 +1637,7 @@ This can take up to 5 minutes."</string>
     <string name="ota_listen">Follow the spoken instructions until you hear that activation is complete.</string>
     <string name="ota_next">Next</string>
     <string name="ota_progress">Programming your phone…</string>
-    <string name="ota_skip_activation_dialog_message">"If you skip activation, you can't place calls or connect to mobile data networks (though you can connect to Wi-Fi networks). Until you activate your phone, you are asked to activate it each time you turn it on."</string>
+    <string name="ota_skip_activation_dialog_message">"If you skip activation, you can't place calls or connect to mobile data networks (though you can connect to WLAN networks). Until you activate your phone, you are asked to activate it each time you turn it on."</string>
     <string name="ota_skip_activation_dialog_skip_label">Skip</string>
     <string name="ota_skip_activation_dialog_title">Skip activation?</string>
     <string name="ota_spc_failure">EXCESS SPC FAILURES</string>
@@ -1947,7 +1947,7 @@ Your SIM card will be locked after another unsuccessful attempt."</string>
     <string name="radio_info_ims_feature_status_unavailable">Unavailable</string>
     <string name="radio_info_ims_reg_status">"IMS Registration: %1$s
 Voice over LTE: %2$s
-Voice over Wi-Fi: %3$s
+Voice over WLAN: %3$s
 Video Calling: %4$s
 UT Interface: %5$s"</string>
     <string name="radio_info_ims_reg_status_not_registered">Not Registered</string>
@@ -1979,7 +1979,7 @@ UT Interface: %5$s"</string>
     <string name="radio_info_ul_kbps">UL Bandwidth (kbps):</string>
     <string name="radio_info_voice_network_type_label">Voice Network Type:</string>
     <string name="radio_info_voice_raw_registration_state_label">Voice Raw Registration State:</string>
-    <string name="radio_info_wlan_data_raw_registration_state_label">Wi-Fi Data Raw Registration State:</string>
+    <string name="radio_info_wlan_data_raw_registration_state_label">WLAN Data Raw Registration State:</string>
     <string name="radio_off_during_emergency_call">Cannot enter airplane mode during an emergency call.</string>
     <string name="radio_off_error">Turn on the radio before viewing these settings.</string>
     <string name="read_call_log">Record audio</string>
@@ -1996,7 +1996,7 @@ UT Interface: %5$s"</string>
     <string name="registration_status_failed_try_later">"Couldn't register account: %s. Another attempt will be made later."</string>
     <string name="registration_status_invalid_credentials">"Couldn't register account. Incorrect username or password."</string>
     <string name="registration_status_no_data">"Couldn't register account. This device isn't connected to the internet."</string>
-    <string name="registration_status_no_wifi_data">"Couldn't register account. This device isn't connected to Wi-Fi."</string>
+    <string name="registration_status_no_wifi_data">"Couldn't register account. This device isn't connected to WLAN."</string>
     <string name="registration_status_not_receiving">"Can't receive calls."</string>
     <string name="registration_status_not_running">"Couldn't register account."</string>
     <string name="registration_status_server_unreachable">"Couldn't register account. Check the server name."</string>
@@ -2146,8 +2146,8 @@ UT Interface: %5$s"</string>
     <string name="show_volte_switch_title">Show VoLTE switch</string>
     <string name="show_vonr_switch_summary">Show VoNR switch in SIM details</string>
     <string name="show_vonr_switch_title">Show VoNR switch</string>
-    <string name="show_vowifi_switch_summary">Show Wi-Fi call switch in SIM details</string>
-    <string name="show_vowifi_switch_title">Show Wi-Fi call switch</string>
+    <string name="show_vowifi_switch_summary">Show WLAN call switch in SIM details</string>
+    <string name="show_vowifi_switch_title">Show WLAN call switch</string>
     <string name="simContacts_airplaneMode">Turn off airplane mode to import contacts from the SIM card.</string>
     <string name="simContacts_empty">No contacts on your SIM card.</string>
     <string name="simContacts_emptyLoading">Reading from SIM card…</string>
@@ -2264,8 +2264,8 @@ Please confirm your default calling account setting."</string>
     <string name="srvcc_message">4G voice call is downgraded to 2G/3G voice call due to 4G network is not available.</string>
     <string name="srvcc_video_message">Video call is downgraded to 2G/3G voice call due to 4G network is not available.</string>
     <string name="status_bar_notification_info_overflow">999+</string>
-    <string name="status_hint_label_incoming_wifi_call">Wi-Fi call from</string>
-    <string name="status_hint_label_wifi_call">Wi-Fi call</string>
+    <string name="status_hint_label_incoming_wifi_call">WLAN call from</string>
+    <string name="status_hint_label_wifi_call">WLAN call</string>
     <string name="status_unavailable">Not available</string>
     <string name="stk_cc_ss_to_dial_error">SS request modified to DIAL request.</string>
     <string name="stk_cc_ss_to_dial_video_error">SS request changed to video call</string>
@@ -2344,7 +2344,7 @@ Please confirm your default calling account setting."</string>
     <string name="t9_indexing_rebuilding_message">Rebuilding T9 indexes…</string>
     <string name="technology_news_disable">Technology News disabled</string>
     <string name="technology_news_enable">Technology News enabled</string>
-    <string name="telephony_setting">Apps/Other settings/System app settings/Phone</string>
+    <string name="telephony_setting">Phone</string>
     <string name="telocation_auto_country_code">Add country code</string>
     <string name="telocation_auto_country_code_summary">Automatically add country code before dialing contacts</string>
     <string name="telocation_call_assistant">Dialing assistant</string>
@@ -2569,14 +2569,14 @@ This tablet doesn't have an earpiece. You can switch to hands-free mode or use e
     <string name="vonr_switch_summary">Use VoNR to improve the quality of voice calls</string>
     <string name="vonr_switch_title">Use VoNR</string>
     <string name="vowifi_emergency_notification_content">Emergency calls in areas with cellular coverage only</string>
-    <string name="vowifi_emergency_notification_title">Vodafone Wi-Fi Calling</string>
+    <string name="vowifi_emergency_notification_title">Vodafone WLAN Calling</string>
     <string name="vowifi_emergency_warning_check">"Don't show again."</string>
-    <string name="vowifi_emergency_warning_message">"Emergency calls are not possible via Wi-Fi Calling.
+    <string name="vowifi_emergency_warning_message">"Emergency calls are not possible via WLAN Calling.
 
 The device switches automatically to a cellular network(2G/3G) to place an emergency call.
 
 Emergency calls are only possible in areas with cellular coverage."</string>
-    <string name="vowifi_emergency_warning_title">Emergency calls via Wi-Fi Calling</string>
+    <string name="vowifi_emergency_warning_title">Emergency calls via WLAN Calling</string>
     <string name="vt_provisioned_switch_string">Video Calling Provisioned</string>
     <string name="vvm_unsupported_message_format">Unsupported message type, call %s to listen.</string>
     <string name="wait_prompt_str">"Send the following tones?
@@ -2587,38 +2587,38 @@ Emergency calls are only possible in areas with cellular coverage."</string>
     <string name="wfc_provisioned_switch_string">Wifi Calling Provisioned</string>
     <string name="wfcmode_ims_preferred">Prefer IMS</string>
     <string name="wfcmode_mobile_preferred">Prefer mobile networks</string>
-    <string name="wfcmode_wifi_only">Wi-Fi only</string>
-    <string name="wfcmode_wifi_preferred">Prefer Wi-Fi</string>
+    <string name="wfcmode_wifi_only">WLAN only</string>
+    <string name="wfcmode_wifi_preferred">Prefer WLAN</string>
     <string name="wifi_call_accept">Accept</string>
-    <string name="wifi_call_available_message">"You can make calls using Wi-Fi now. If you're connected to a Wi-Fi network, you'll be able to talk even when you're in the areas with no mobile network coverage."</string>
-    <string name="wifi_call_available_message_for_ATT_MX">You are about to connect to a Wi-Fi network, Call quality may vary depending on the network.</string>
-    <string name="wifi_call_available_title">Turning on Wi-Fi Calling</string>
+    <string name="wifi_call_available_message">"You can make calls using WLAN now. If you're connected to a WLAN network, you'll be able to talk even when you're in the areas with no mobile network coverage."</string>
+    <string name="wifi_call_available_message_for_ATT_MX">You are about to connect to a WLAN network, Call quality may vary depending on the network.</string>
+    <string name="wifi_call_available_title">Turning on WLAN Calling</string>
     <string name="wifi_call_cancel">More info</string>
     <string name="wifi_call_help">Help</string>
-    <string name="wifi_call_help_message_1">"Wi-Fi Calling is a service provided by Orange that allows you to make and receive calls via Wi-Fi. This feature can be used in areas with poor mobile network coverage.
+    <string name="wifi_call_help_message_1">"WLAN Calling is a service provided by Orange that allows you to make and receive calls via WLAN. This feature can be used in areas with poor mobile network coverage.
 
-To use Wi-Fi Calling, turn it on in Settings > Wi-Fi Calling.
+To use WLAN Calling, turn it on in Settings > WLAN Calling.
 
-To activate the service, Orange will send you a confirmation message as soon as the service is available. After this, you'll be able to connect to a Wi-Fi network and make calls.
+To activate the service, Orange will send you a confirmation message as soon as the service is available. After this, you'll be able to connect to a WLAN network and make calls.
 
-Calls made via Wi-Fi will be charged according to the conditions of your plan.
+Calls made via WLAN will be charged according to the conditions of your plan.
 
 Whenever this feature is available, the following icon will be shown at the top of your screen."</string>
-    <string name="wifi_call_help_message_2">"If you select to prefer Wi-Fi networks, they'll be used by default to make phone calls. In case you aren't connected to Wi-Fi or the signal is poor, mobile networks will be used to make calls.
+    <string name="wifi_call_help_message_2">"If you select to prefer WLAN networks, they'll be used by default to make phone calls. In case you aren't connected to WLAN or the signal is poor, mobile networks will be used to make calls.
 
-If you select to prefer mobile networks, they will be used by default to make phone calls. In case there's no mobile network coverage or the signal is poor, Wi-Fi networks will be used instead."</string>
-    <string name="wifi_call_help_title">Wi-Fi Calling Help</string>
+If you select to prefer mobile networks, they will be used by default to make phone calls. In case there's no mobile network coverage or the signal is poor, WLAN networks will be used instead."</string>
+    <string name="wifi_call_help_title">WLAN Calling Help</string>
     <string name="wifi_call_notification_message">"This service is provided by Orange. It might take several hours to activate this service. You'll receive a confirmation SMS as soon as it's available."</string>
-    <string name="wifi_call_preferred_summary">"If you select to prefer mobile networks, mobile networks will be used for calls by default. In case when there's no mobile network signal or it's very poor, Wi-Fi network will be used instead."</string>
-    <string name="wifi_call_setting">Wi-Fi calls</string>
-    <string name="wifi_call_setting_vodafone_de">Wi-Fi calling</string>
-    <string name="wifi_call_setting_vodafone_uk">Wi-Fi call</string>
-    <string name="wifi_call_welcome_settings">Wi-Fi calls</string>
-    <string name="wifi_calling">Wi-Fi calling</string>
+    <string name="wifi_call_preferred_summary">"If you select to prefer mobile networks, mobile networks will be used for calls by default. In case when there's no mobile network signal or it's very poor, WLAN network will be used instead."</string>
+    <string name="wifi_call_setting">WLAN calls</string>
+    <string name="wifi_call_setting_vodafone_de">WLAN calling</string>
+    <string name="wifi_call_setting_vodafone_uk">WLAN call</string>
+    <string name="wifi_call_welcome_settings">WLAN calls</string>
+    <string name="wifi_calling">WLAN calling</string>
     <string name="wifi_calling_settings_key">button_wifi_calling_settings_key</string>
-    <string name="wifi_calling_settings_title">Wi-Fi calling</string>
-    <string name="wificall_switch_summary">Use Wi-Fi to make and receive calls whenever possible</string>
-    <string name="wificall_switch_title">Make calls using Wi-Fi</string>
+    <string name="wifi_calling_settings_title">WLAN calling</string>
+    <string name="wificall_switch_summary">Use WLAN to make and receive calls whenever possible</string>
+    <string name="wificall_switch_title">Make calls using WLAN</string>
     <string name="wild_prompt_str">Replace wild character with</string>
     <string name="wrong_password">The password you entered is incorrect</string>
     <string name="xcap_setting_summary">Call barring, Voicemail &amp; call forwarding, and Call waiting</string>
