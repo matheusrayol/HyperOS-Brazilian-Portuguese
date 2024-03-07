@@ -53,7 +53,6 @@
     <string name="accessibility_volume_expand">Expand</string>
     <string name="actionbar_button_up_description">Back</string>
     <string name="afternoon">Afternoon</string>
-    <string name="airplane">Airplane</string>
     <string name="airplane_mode">Airplane mode</string>
     <string name="already_in_small_freeform">Some apps are opened in floating windows</string>
     <string name="am">AM</string>
@@ -64,7 +63,6 @@
     <string name="auto_brightness_on">Auto brightness is on</string>
     <string name="auto_disable_screenbuttons_disable_toast_text">Navigation buttons disabled, double tap any button to turn them back on.</string>
     <string name="auto_disable_screenbuttons_enable_toast_text">Navigation buttons enabled</string>
-    <string name="bootloader">Fastboot</string>
     <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
     <string name="bt_is_off">Bluetooth is off</string>
     <string name="character_counter_content_description">Characters entered %1$d of %2$d</string>
@@ -258,10 +256,10 @@
     <string name="fmt_date_long_year_month_day">MMMM d, yyyy</string>
     <string name="fmt_date_numeric_day">d</string>
     <string name="fmt_date_numeric_month">M</string>
-    <string name="fmt_date_numeric_month_day">M/d</string>
+    <string name="fmt_date_numeric_month_day">M-d</string>
     <string name="fmt_date_numeric_year">yyyy</string>
-    <string name="fmt_date_numeric_year_month">M/yyyy</string>
-    <string name="fmt_date_numeric_year_month_day">M/d/yyyy</string>
+    <string name="fmt_date_numeric_year_month">M-yyyy</string>
+    <string name="fmt_date_numeric_year_month_day">M-d-yyyy</string>
     <string name="fmt_date_short_month">MMM</string>
     <string name="fmt_date_short_month_day">MMM d</string>
     <string name="fmt_date_short_year_month">MMM yyyy</string>
@@ -279,10 +277,10 @@
     <string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string>
     <string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
     <string name="fmt_time_12hour_pm">ha</string>
-    <string name="fmt_time_24hour">"HH 'o''clock'"</string>
-    <string name="fmt_time_24hour_minute">HH:mm</string>
-    <string name="fmt_time_24hour_minute_second">HH:mm:ss</string>
-    <string name="fmt_time_24hour_minute_second_millis">HH:mm:ss.S</string>
+    <string name="fmt_time_24hour">"H 'o''clock'"</string>
+    <string name="fmt_time_24hour_minute">H:mm</string>
+    <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
+    <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
     <string name="fmt_time_millis">"S'ms'"</string>
     <string name="fmt_time_minute">"m'min'"</string>
     <string name="fmt_time_minute_second">"m'min' s's'"</string>
@@ -348,8 +346,6 @@
     <string name="miplay_bluetooth_share_des_text">"Xiaomi earbuds users: open the charging case or press and hold the case button for %ds
 Non-Xiaomi earbuds users: reset your earbuds in the Bluetooth settings, then connect"</string>
     <string name="miplay_bluetooth_share_headphone_pairing">Add earphones to share audio</string>
-    <string name="miplay_bluetooth_share_music_cancel_btn_content_des">Finished sharing audio</string>
-    <string name="miplay_bluetooth_share_music_together_btn_content_des">Add earphones to share audio</string>
     <string name="miplay_bluetooth_share_subTitle_text">Share device audio with another person</string>
     <string name="miplay_bluetooth_share_title_text">Share audio</string>
     <string name="miplay_detail_divider_title">Speakers</string>
@@ -593,7 +589,7 @@ Non-Xiaomi earbuds users: reset your earbuds in the Bluetooth settings, then con
     <string name="quick_settings_screenshot_label">Screenshot</string>
     <string name="quick_settings_sim_disabled">" (Disabled)"</string>
     <string name="quick_settings_sync_label">Sync</string>
-    <string name="quick_settings_tiles_default">vowifi1,vowifi2,cell,wifi,bt,airplane,autobrightness,mute,screenshot,flashlight,rotation,screenlock,custom(com.miui.screenrecorder/.service.QuickService),scanner,papermode,night,quietmode,batterysaver,custom(com.miui.securitycenter/com.miui.superpower.notification.SuperPowerTileService),custom(com.milink.service/com.milink.ui.service.MiLinkTileService),custom(com.miui.mishare.connectivity/.tile.MiShareTileService),uwb_shp,aitranslate,aisubtitles,freeformhang,vibrate,hotspot,sync,custom(com.google.android.gms/.nearby.sharing.SharingTileService),wirelesspower,nfc,dolbyatomssound,custom(com.miui.securitycenter/com.miui.permcenter.settings.InvisibleModeTileService),edit</string>
+    <string name="quick_settings_tiles_default">vowifi1,vowifi2,cell,wifi,bt,airplane,autobrightness,mute,screenshot,flashlight,rotation,screenlock,custom(com.miui.screenrecorder/.service.QuickService),scanner,papermode,night,quietmode,batterysaver,custom(com.miui.securitycenter/com.miui.superpower.notification.SuperPowerTileService),custom(com.milink.service/com.milink.ui.service.MiLinkTileService),custom(com.miui.mishare.connectivity/.tile.MiShareTileService),uwb_shp,aitranslate,aisubtitles,freeformhang,vibrate,hotspot,sync,custom(com.google.android.gms/.nearby.sharing.SharingTileService),wirelesspower,nfc,custom(com.android.camera/com.xiaomi.camera.videocast.VideoCastTileService),dolbyatomssound,custom(com.miui.securitycenter/com.miui.permcenter.settings.InvisibleModeTileService),edit</string>
     <string name="quick_settings_tiles_old_mode">cell,wifi,bt,flashlight,batterysaver,screenshot,edit</string>
     <string name="quick_settings_tiles_stock">vowifi1,vowifi2,cell,wifi,bt,airplane,autobrightness,mute,screenshot,flashlight,rotation,screenlock,scanner,papermode,night,quietmode,batterysaver,uwb_shp,aitranslate,aisubtitles,freeformhang,vibrate,hotspot,sync,wirelesspower,nfc,dolbyatomssound,edit,gps,hearingassisttile</string>
     <string name="quick_settings_tiles_super_save">cell,wifi,bt,gps,vibrate</string>
@@ -614,7 +610,6 @@ Non-Xiaomi earbuds users: reset your earbuds in the Bluetooth settings, then con
     <string name="quick_settings_wireless_label">Reverse wireless charging</string>
     <string name="reboot_info_auto_boot">Upcoming alarm: %s</string>
     <string name="reboot_info_shutdown_alarm">Shutdown alarm: %s</string>
-    <string name="recovery">Recovery</string>
     <string name="reset">Reset</string>
     <string name="restart">Reboot</string>
     <string name="safe_media_volume_warning">"Raise volume above recommended level?
@@ -626,10 +621,7 @@ Long exposure to loud sounds can cause hearing problems."</string>
     <string name="save">Save</string>
     <string name="search_menu_title">Search</string>
     <string name="send">Send</string>
-    <string name="silent">Silent</string>
     <string name="slider_view_content_description">Slide up to power off or slide down to reboot</string>
-    <string name="slider_view_content_left_description">Slide up to reboot to Fastboot mode or slide down to reboot to Recovery mode</string>
-    <string name="slider_view_content_right_description">Slide up to toggle Airplane mode or slide down to toggle Silent mode</string>
     <string name="smart_home_title">Smart devices</string>
     <string name="solar_term_autumn_begins">Autumn begins</string>
     <string name="solar_term_autumn_equinox">Autumn equinox</string>
