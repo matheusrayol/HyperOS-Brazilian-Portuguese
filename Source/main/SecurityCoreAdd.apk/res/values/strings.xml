@@ -107,8 +107,6 @@ this feature will be added to Second space automatically."</string>
     <string name="can_not_switch_when_extreme_endurance_battery_active">"Can't use Second space due to low battery"</string>
     <string name="can_not_switch_when_green_kid_active">Switching to Second space is restricted by parental controls</string>
     <string name="can_not_switch_when_green_kid_active_new">"Can't switch to Second space when Family Guard is on"</string>
-    <string name="can_not_switch_when_lock_to_app_enabled_classic_navigation">Press and hold the back and preview buttons to unpin this app</string>
-    <string name="can_not_switch_when_lock_to_app_enabled_guest_navigation">Slide up from the bottom of the screen and pause to unpin this app</string>
     <string name="can_not_switch_when_super_power_active">"Can't switch between spaces when Ultra battery saver is on"</string>
     <string name="cancel">取消</string>
     <string name="cancelClosePassword">"Don't turn off"</string>
@@ -374,10 +372,10 @@ Make sure the name of your corporation is correct. Read and agree to the related
     <string name="fmt_date_long_year_month_day">MMMM d, yyyy</string>
     <string name="fmt_date_numeric_day">d</string>
     <string name="fmt_date_numeric_month">M</string>
-    <string name="fmt_date_numeric_month_day">M/d</string>
+    <string name="fmt_date_numeric_month_day">M-d</string>
     <string name="fmt_date_numeric_year">yyyy</string>
-    <string name="fmt_date_numeric_year_month">M/yyyy</string>
-    <string name="fmt_date_numeric_year_month_day">M/d/yyyy</string>
+    <string name="fmt_date_numeric_year_month">M-yyyy</string>
+    <string name="fmt_date_numeric_year_month_day">M-d-yyyy</string>
     <string name="fmt_date_short_month">MMM</string>
     <string name="fmt_date_short_month_day">MMM d</string>
     <string name="fmt_date_short_year_month">MMM yyyy</string>
@@ -395,10 +393,10 @@ Make sure the name of your corporation is correct. Read and agree to the related
     <string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string>
     <string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
     <string name="fmt_time_12hour_pm">ha</string>
-    <string name="fmt_time_24hour">"HH 'o''clock'"</string>
-    <string name="fmt_time_24hour_minute">HH:mm</string>
-    <string name="fmt_time_24hour_minute_second">HH:mm:ss</string>
-    <string name="fmt_time_24hour_minute_second_millis">HH:mm:ss.S</string>
+    <string name="fmt_time_24hour">"H 'o''clock'"</string>
+    <string name="fmt_time_24hour_minute">H:mm</string>
+    <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
+    <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
     <string name="fmt_time_millis">"S'ms'"</string>
     <string name="fmt_time_minute">"m'min'"</string>
     <string name="fmt_time_minute_second">"m'min' s's'"</string>
