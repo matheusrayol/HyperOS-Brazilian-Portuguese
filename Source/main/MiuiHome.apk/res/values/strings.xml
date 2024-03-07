@@ -288,7 +288,7 @@
     <string name="cloud_app_restore_title">Pending</string>
     <string name="color_group">Group icons by color</string>
     <string name="color_group_anim">Animations in color categories</string>
-    <string name="com.crashlytics.android.build_id">43afe296d1d342c3b01084fd139dc57a</string>
+    <string name="com.crashlytics.android.build_id">75f70c95b8f24702b0ae7a81d0930051</string>
     <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. Please try again.</string>
     <string name="common_home_search_delete">Removing search bar</string>
     <string name="common_home_search_delete_cancle">Cancel</string>
@@ -337,7 +337,6 @@
     <string name="discovery_data_constant_part_end">&amp;ref=com.miui.home&amp;senderPackageName=com.miui.home&amp;ext_xxx=com.miui.home &amp;show_cta=true&amp;overlayPosition=1&amp;startDownload=true&amp;showToast=true&amp;extInstallUIType=1</string>
     <string name="dock_and_folder_not_edit_icon_tip">To edit, move the app out of the dock and folder first</string>
     <string name="dock_not_edit_icon_tip">To edit, move the app out of the dock first</string>
-    <string name="double_tap_to_lock_title">Double tap to lock screen</string>
     <string name="drag_icon_to_homescreen_guide">Press and hold an app icon, then drag it to add a Home screen shortcut</string>
     <string name="drag_multiple_item_name" />
     <string name="drag_single_item_name" />
@@ -390,10 +389,10 @@
     <string name="fmt_date_long_year_month_day">MMMM d, yyyy</string>
     <string name="fmt_date_numeric_day">d</string>
     <string name="fmt_date_numeric_month">M</string>
-    <string name="fmt_date_numeric_month_day">M/d</string>
+    <string name="fmt_date_numeric_month_day">M-d</string>
     <string name="fmt_date_numeric_year">yyyy</string>
-    <string name="fmt_date_numeric_year_month">M/yyyy</string>
-    <string name="fmt_date_numeric_year_month_day">M/d/yyyy</string>
+    <string name="fmt_date_numeric_year_month">M-yyyy</string>
+    <string name="fmt_date_numeric_year_month_day">M-d-yyyy</string>
     <string name="fmt_date_short_month">MMM</string>
     <string name="fmt_date_short_month_day">MMM d</string>
     <string name="fmt_date_short_year_month">MMM yyyy</string>
@@ -411,10 +410,10 @@
     <string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string>
     <string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
     <string name="fmt_time_12hour_pm">ha</string>
-    <string name="fmt_time_24hour">"HH 'o''clock'"</string>
-    <string name="fmt_time_24hour_minute">HH:mm</string>
-    <string name="fmt_time_24hour_minute_second">HH:mm:ss</string>
-    <string name="fmt_time_24hour_minute_second_millis">HH:mm:ss.S</string>
+    <string name="fmt_time_24hour">"H 'o''clock'"</string>
+    <string name="fmt_time_24hour_minute">H:mm</string>
+    <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
+    <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
     <string name="fmt_time_millis">"S'ms'"</string>
     <string name="fmt_time_minute">"m'min'"</string>
     <string name="fmt_time_minute_second">"m'min' s's'"</string>
@@ -485,7 +484,6 @@
     <string name="heavenly_stems_wu">戊</string>
     <string name="heavenly_stems_xin">辛</string>
     <string name="heavenly_stems_yi">乙</string>
-    <string name="hide_apps_title">Hide app icons</string>
     <string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
     <string name="home_gesture_content_center">Content Center</string>
     <string name="home_gesture_global_search">Search</string>
@@ -524,9 +522,7 @@ Enhanced security."</string>
     <string name="launcher_icon_management">Manage Home screen shortcuts</string>
     <string name="launcher_pull_down_title">Swipe down on the Home screen</string>
     <string name="launcher_search">Home screen search</string>
-    <string name="launcher_search_bar_provider_title">Search bar provider</string>
     <string name="launcher_search_bar_title">Home screen search bar</string>
-    <string name="launcher_slide_up_search_provider_title">Swipe up search provider</string>
     <string name="launcher_slide_up_title">Swipe up on the Home screen</string>
     <string name="launcher_sliding_up_gesture">Swipe up on the Home screen to open search</string>
     <string name="launcher_title">Home screen &amp; Recents</string>
@@ -557,13 +553,13 @@ Enhanced security."</string>
     <string name="m3_sys_motion_easing_standard_accelerate">cubic-bezier(0.3, 0.0, 1.0, 1.0)</string>
     <string name="m3_sys_motion_easing_standard_decelerate">cubic-bezier(0.0, 0.0, 0.0, 1.0)</string>
     <string name="maml_download_dialog_cancel_text">Wait for Wi-Fi</string>
-    <string name="maml_download_dialog_cancel_text_china">Wait for Wi-Fi</string>
+    <string name="maml_download_dialog_cancel_text_china">Wait for WLAN</string>
     <string name="maml_download_dialog_checkbox_text">"Don't show again for %d minutes"</string>
     <string name="maml_download_dialog_confirm_text">Download</string>
     <string name="maml_download_dialog_message">%s MB of mobile data will be used to download this item. Download anyway?</string>
     <string name="maml_download_dialog_title">Data usage warning</string>
     <string name="maml_download_tip_wait_wifi">This item will be downloaded when you connect to Wi-Fi</string>
-    <string name="maml_download_tip_wait_wifi_china">This item will be downloaded when you connect to Wi-Fi</string>
+    <string name="maml_download_tip_wait_wifi_china">This item will be downloaded when you connect to WLAN</string>
     <string name="manager_group_settings">Manage app categories</string>
     <string name="marketSdkVersion">3.2.22</string>
     <string name="material_clock_display_divider">:</string>
@@ -608,7 +604,7 @@ Enhanced security."</string>
     <string name="mi_wallpaper">MIUI Themes</string>
     <string name="midnight">Night</string>
     <string name="minus_one_screen">App vault</string>
-    <string name="miui_screen_config_title">Home screen layout</string>
+    <string name="miui_screen_config_title">Home screen settings</string>
     <string name="miui_setting_config_title">Home screen settings</string>
     <string name="miui_widget_menu_replace_text">Switch</string>
     <string name="miui_widget_toast_for_not_support_by_pa">"App vault doesn't support widgets of this size"</string>
@@ -837,7 +833,6 @@ Enhanced security."</string>
     <string name="recent_menu_item_unlock">Unlock</string>
     <string name="recent_menu_item_worldcirculate">Transfer app tasks</string>
     <string name="recent_menu_item_worldcirculate_disable">"Can't transfer app tasks across connected devices"</string>
-    <string name="recent_pin_text">Pin</string>
     <string name="recents_app_info_button_label">App info</string>
     <string name="recents_config_title">Recents</string>
     <string name="recents_dimiss_task">Clear</string>
@@ -966,7 +961,6 @@ Enhanced security."</string>
     <string name="switch_personal_assistant_none">None</string>
     <string name="switch_screen_button_order">Mirror buttons</string>
     <string name="switch_screen_button_order_desc">Mirror Back and Menu buttons</string>
-    <string name="system_sdk_disabled_toast">System SDK has been disabled. Enable it first.</string>
     <string name="system_shortcuts_edit">Edit</string>
     <string name="system_shortcuts_icon_remove">Remove</string>
     <string name="system_shortcuts_more_operation">App info</string>
