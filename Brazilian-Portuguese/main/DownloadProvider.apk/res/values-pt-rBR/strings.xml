@@ -15,7 +15,6 @@
     <string name="notif_title_single_downloading">Fazendo o download %1$s</string>
     <string name="notification_download_complete">Download concluído.</string>
     <string name="notification_download_failed">Não foi possível fazer download dos itens.</string>
-    <string name="notification_need_wifi_for_size">O tamanho do download requer Wi-Fi.</string>
     <string name="notification_paused_in_background">Paus. em segundo plano.</string>
     <string name="paused_waiting_for_network">Aguardando rede</string>
     <string name="permdesc_accessAllDownloads">Permite que o app veja e modifique todos os downloads iniciados por qualquer app.</string>
@@ -31,12 +30,6 @@
     <string name="permlab_downloadManager">Acessar Downloads.</string>
     <string name="permlab_downloadManagerAdvanced">Recursos avançados de Downloads.</string>
     <string name="permlab_downloadWithoutNotification">Download de arquivos sem notificação</string>
-    <string name="wifi_recommended_body">"Iniciar o download de %1$s agora poderá diminuir a duração de sua bateria ou resultar em uso excessivo de sua rede de dados móveis, o que poderá gerar custos adicionais por sua operadora dependendo de seu plano de dados.
-
- Toque em %2$s para iniciar este download na próxima vez que você estiver conectado a uma rede Wi-Fi."</string>
     <string name="wifi_recommended_title">Colocar em fila para download mais tarde?</string>
-    <string name="wifi_required_body">"Conecte-se ao Wi-Fi para concluir este download de %1$s.
-
-Toque em %2$s para começar este download da próxima vez que você estiver conectado a uma rede Wi-Fi."</string>
     <string name="wifi_required_title">Arquivo muito grande para download em dados móveis</string>
 </resources>
