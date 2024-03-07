@@ -32,7 +32,7 @@
     <string name="am">AM</string>
     <string name="androidx_startup">androidx.startup</string>
     <string name="app_label">Downloads</string>
-    <string name="auto_restart_under_wifi">Wi-Fi will automatically download this file</string>
+    <string name="auto_restart_under_wifi">WLAN will automatically download this file</string>
     <string name="button_cancel_download">Cancel</string>
     <string name="button_download_now">Download now</string>
     <string name="button_queue_for_wifi">Queue</string>
@@ -128,7 +128,7 @@
     <string name="dialog_confirm_delete_the_download_item_message">Delete these tasks</string>
     <string name="dialog_content_limit0">Restrict downloads</string>
     <string name="dialog_content_limit_max">Unlimited</string>
-    <string name="dialog_data_limit_button1">Wait for Wi-Fi</string>
+    <string name="dialog_data_limit_button1">Wait for WLAN</string>
     <string name="dialog_data_limit_button2">Download</string>
     <string name="dialog_data_limit_msg1">%s of mobile data will be used to download this file. Download now?</string>
     <string name="dialog_data_limit_msg2">@string/dialog_tip_limit</string>
@@ -201,10 +201,10 @@
     <string name="fmt_date_long_year_month_day">MMMM d, yyyy</string>
     <string name="fmt_date_numeric_day">d</string>
     <string name="fmt_date_numeric_month">M</string>
-    <string name="fmt_date_numeric_month_day">M/d</string>
+    <string name="fmt_date_numeric_month_day">M-d</string>
     <string name="fmt_date_numeric_year">yyyy</string>
-    <string name="fmt_date_numeric_year_month">M/yyyy</string>
-    <string name="fmt_date_numeric_year_month_day">M/d/yyyy</string>
+    <string name="fmt_date_numeric_year_month">M-yyyy</string>
+    <string name="fmt_date_numeric_year_month_day">M-d-yyyy</string>
     <string name="fmt_date_short_month">MMM</string>
     <string name="fmt_date_short_month_day">MMM d</string>
     <string name="fmt_date_short_year_month">MMM yyyy</string>
@@ -222,10 +222,10 @@
     <string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string>
     <string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
     <string name="fmt_time_12hour_pm">ha</string>
-    <string name="fmt_time_24hour">"HH 'o''clock'"</string>
-    <string name="fmt_time_24hour_minute">HH:mm</string>
-    <string name="fmt_time_24hour_minute_second">HH:mm:ss</string>
-    <string name="fmt_time_24hour_minute_second_millis">HH:mm:ss.S</string>
+    <string name="fmt_time_24hour">"H 'o''clock'"</string>
+    <string name="fmt_time_24hour_minute">H:mm</string>
+    <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
+    <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
     <string name="fmt_time_millis">"S'ms'"</string>
     <string name="fmt_time_minute">"m'min'"</string>
     <string name="fmt_time_minute_second">"m'min' s's'"</string>
@@ -342,13 +342,13 @@
     <string name="notification_download_complete">Download complete.</string>
     <string name="notification_download_failed">Download unsuccessful.</string>
     <string name="notification_download_success_more">%1$d downloaded</string>
-    <string name="notification_need_wifi_for_size">Download size requires Wi-Fi.</string>
+    <string name="notification_need_wifi_for_size">Download size requires WLAN.</string>
     <string name="notification_paused_in_background">Paused in background.</string>
     <string name="notify_disabled_net_by_app">Internet connection restricted by Security app</string>
     <string name="notify_install_guide_forward_text">Open</string>
     <string name="notify_install_guide_msg">Installed successfully</string>
     <string name="notify_install_guide_title">Installed %s successfully</string>
-    <string name="notify_only_wifi_download">Waiting for Wi-Fi</string>
+    <string name="notify_only_wifi_download">Waiting for WLAN</string>
     <string name="paused_by_app">Paused</string>
     <string name="paused_insufficient_space">Waiting</string>
     <string name="paused_queued_for_wifi">Waiting for network</string>
@@ -474,7 +474,7 @@ to use all features"</string>
     <string name="v7_preference_off">OFF</string>
     <string name="v7_preference_on">ON</string>
     <string name="warning_tip_cancel">Download</string>
-    <string name="warning_tip_content">"You're no longer connected to Wi-Fi. Using your mobile data connection to complete this download will increase your data usage. If you go over your plan's data limit, your carrier could charge you additional fees."</string>
+    <string name="warning_tip_content">"You're no longer connected to WLAN. Using your mobile data connection to complete this download will increase your data usage. If you go over your plan's data limit, your carrier could charge you additional fees."</string>
     <string name="warning_tip_ok">Pause</string>
     <string name="warning_tip_title">Data usage warning</string>
     <string name="wednesday">Wednesday</string>
@@ -482,11 +482,11 @@ to use all features"</string>
     <string name="wednesday_shortest">Wed</string>
     <string name="wifi_recommended_body">"Starting this %1$s download now may result in excessive usage of your mobile data connection, which can lead to charges by your mobile operator depending on your data plan.
 
-Tap %2$s to start this download the next time you're connected to a Wi-Fi network."</string>
+Tap %2$s to start this download the next time you're connected to a WLAN network."</string>
     <string name="wifi_recommended_title">Queue for download later?</string>
-    <string name="wifi_required_body">"Connect to Wi-Fi to complete this %1$s download. 
+    <string name="wifi_required_body">"Connect to WLAN to complete this %1$s download. 
 
-Tap %2$s to start this download the next time you're connected to a Wi-Fi network."</string>
+Tap %2$s to start this download the next time you're connected to a WLAN network."</string>
     <string name="wifi_required_title">The file is too large to download using mobile data</string>
     <string name="xl_speedup_experience_notify_context">"Speed is boosted for every download when you're a Xunlei member"</string>
     <string name="xl_speedup_experience_notify_title">Xunlei membership</string>

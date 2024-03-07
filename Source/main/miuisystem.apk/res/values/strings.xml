@@ -1,19 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="android_ringtone_silent">None</string>
+    <string name="android_ringtone_unknown">Unknown ringtone</string>
+    <string name="def_alarm_alert">@android.miui:string/def_alarm_alert</string>
+    <string name="def_notification_sound">@android.miui:string/def_notification_sound</string>
+    <string name="def_ringtone">@android.miui:string/def_ringtone</string>
+    <string name="def_ringtone_slot_1">@android.miui:string/def_ringtone_slot_1</string>
+    <string name="def_ringtone_slot_2">@android.miui:string/def_ringtone_slot_2</string>
+    <string name="def_sms_delivered_sound">@android.miui:string/def_sms_delivered_sound</string>
+    <string name="def_sms_delivered_sound_slot_1">@android.miui:string/def_sms_delivered_sound_slot_1</string>
+    <string name="def_sms_delivered_sound_slot_2">@android.miui:string/def_sms_delivered_sound_slot_2</string>
+    <string name="def_sms_received_sound">@android.miui:string/def_sms_received_sound</string>
+    <string name="def_sms_received_sound_slot_1">@android.miui:string/def_sms_received_sound_slot_1</string>
+    <string name="def_sms_received_sound_slot_2">@android.miui:string/def_sms_received_sound_slot_2</string>
+    <string name="presentation_payphone">Payphone</string>
+    <string name="presentation_private">Private number</string>
+    <string name="presentation_unknown">Unknown number</string>
+    <string name="yellow_page_module_sms_sent">SMS sent</string>
+    <string name="yellow_page_sms_disabled_in_privacy_mode">"Can't send messages in Guest mode"</string>
+    <string name="yellow_page_sms_send_failed">"Couldn't send SMS"</string>
+    <string name="yellow_page_sms_sending">Sending…</string>
+    <string name="yellow_page_unable_send_sms">"Can't send SMS"</string>
+    <string name="device_hongmi">Redmi</string>
+    <string name="device_pad">Mi Pad</string>
+    <string name="device_xiaomi">Mi Phone</string>
+    <string name="miui_device_name">Android</string>
+    <string name="notice_audition">Nature sounds</string>
     <string name="acousticguitar">Acoustic guitar</string>
     <string name="afternoon">PM</string>
     <string name="alarmclock">Alarm clock</string>
     <string name="am">AM</string>
     <string name="android_ringtone_default_with_actual">Default ringtone (%1$s)</string>
-    <string name="android_ringtone_silent">None</string>
-    <string name="android_ringtone_unknown">Unknown ringtone</string>
     <string name="anniversary_of_lifting_martial_law">解嚴紀念</string>
+    <string name="miui_lock_screen_date">EEEE MM/dd</string>
+    <string name="miui_lock_screen_date_12">EEEE MM/dd</string>
+    <string name="miui_lock_screen_large_date">"EEE
+MM/dd"</string>
+    <string name="miui_lock_screen_large_date_12">"EEE
+MM/dd"</string>
+    <string name="miui_lock_screen_date_two_lines">"EEEE
+MM/dd"</string>
+    <string name="miui_lock_screen_date_two_lines_12">"EEEE
+MM/dd"</string>
+    <string name="miui_vertical_time_format_24">"HH
+mm"</string>
+    <string name="miui_vertical_time_format_12">"hh
+mm"</string>
+    <string name="miui_digital_clock_dot">:</string>
+    <string name="miui_clock_city_name_local">Local</string>
     <string name="anti_aggression_day">反侵略日</string>
     <string name="arbor_day">植树节</string>
     <string name="armed_forces_day">軍人節</string>
     <string name="asend">Send</string>
     <string name="atlantis">Atlantis (stereo)</string>
     <string name="autumn_begins">立秋</string>
+    <string name="miui_clock_fancy_colon"></string>
+    <string name="miui_clock_city_name_second">Second clock</string>
     <string name="autumn_equinox">秋分</string>
     <string name="beep">Beep</string>
     <string name="bells">Bells</string>
@@ -127,24 +169,10 @@
     <string name="dance">Dance</string>
     <string name="day_following_good_friday">耶穌受難節翌日</string>
     <string name="daydream">Daydream</string>
-    <string name="def_alarm_alert">@android.miui:string/def_alarm_alert</string>
-    <string name="def_notification_sound">@android.miui:string/def_notification_sound</string>
-    <string name="def_ringtone">@android.miui:string/def_ringtone</string>
-    <string name="def_ringtone_slot_1">@android.miui:string/def_ringtone_slot_1</string>
-    <string name="def_ringtone_slot_2">@android.miui:string/def_ringtone_slot_2</string>
-    <string name="def_sms_delivered_sound">@android.miui:string/def_sms_delivered_sound</string>
-    <string name="def_sms_delivered_sound_slot_1">@android.miui:string/def_sms_delivered_sound_slot_1</string>
-    <string name="def_sms_delivered_sound_slot_2">@android.miui:string/def_sms_delivered_sound_slot_2</string>
-    <string name="def_sms_received_sound">@android.miui:string/def_sms_received_sound</string>
-    <string name="def_sms_received_sound_slot_1">@android.miui:string/def_sms_received_sound_slot_1</string>
-    <string name="def_sms_received_sound_slot_2">@android.miui:string/def_sms_received_sound_slot_2</string>
-    <string name="device_hongmi">Redmi</string>
-    <string name="device_pad">Mi Pad</string>
     <string name="device_poco">POCO</string>
     <string name="device_poco_global">POCOPHONE</string>
     <string name="device_poco_india">POCO PHONE</string>
     <string name="device_redmi">Redmi</string>
-    <string name="device_xiaomi">Mi Phone</string>
     <string name="dewdrops">Morning dew</string>
     <string name="digitaluniverse">Digital universe (stereo)</string>
     <string name="double_seventh_day">七夕</string>
@@ -184,10 +212,10 @@
     <string name="fmt_date_long_year_month_day">MMMM d, yyyy</string>
     <string name="fmt_date_numeric_day">d</string>
     <string name="fmt_date_numeric_month">M</string>
-    <string name="fmt_date_numeric_month_day">M/d</string>
+    <string name="fmt_date_numeric_month_day">M-d</string>
     <string name="fmt_date_numeric_year">yyyy</string>
-    <string name="fmt_date_numeric_year_month">M/yyyy</string>
-    <string name="fmt_date_numeric_year_month_day">M/d/yyyy</string>
+    <string name="fmt_date_numeric_year_month">M-yyyy</string>
+    <string name="fmt_date_numeric_year_month_day">M-d-yyyy</string>
     <string name="fmt_date_short_month">MMM</string>
     <string name="fmt_date_short_month_day">MMM d</string>
     <string name="fmt_date_short_year_month">MMM yyyy</string>
@@ -205,10 +233,10 @@
     <string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string>
     <string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
     <string name="fmt_time_12hour_pm">ha</string>
-    <string name="fmt_time_24hour">"HH 'o''clock'"</string>
-    <string name="fmt_time_24hour_minute">HH:mm</string>
-    <string name="fmt_time_24hour_minute_second">HH:mm:ss</string>
-    <string name="fmt_time_24hour_minute_second_millis">HH:mm:ss.S</string>
+    <string name="fmt_time_24hour">"H 'o''clock'"</string>
+    <string name="fmt_time_24hour_minute">H:mm</string>
+    <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
+    <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
     <string name="fmt_time_millis">"S'ms'"</string>
     <string name="fmt_time_minute">"m'min'"</string>
     <string name="fmt_time_minute_second">"m'min' s's'"</string>
@@ -307,25 +335,6 @@
     <string name="mihouse">Mi Electronic</string>
     <string name="mijazz">Mi Jazz</string>
     <string name="miremix">Mi (Remix)</string>
-    <string name="miui_clock_city_name_local">Local</string>
-    <string name="miui_clock_city_name_second">Second clock</string>
-    <string name="miui_clock_fancy_colon"></string>
-    <string name="miui_device_name">Android</string>
-    <string name="miui_digital_clock_dot">:</string>
-    <string name="miui_lock_screen_date">EEEE MM/dd</string>
-    <string name="miui_lock_screen_date_12">EEEE MM/dd</string>
-    <string name="miui_lock_screen_date_two_lines">"EEEE
-MM/dd"</string>
-    <string name="miui_lock_screen_date_two_lines_12">"EEEE
-MM/dd"</string>
-    <string name="miui_lock_screen_large_date">"EEE
-MM/dd"</string>
-    <string name="miui_lock_screen_large_date_12">"EEE
-MM/dd"</string>
-    <string name="miui_vertical_time_format_12">"hh
-mm"</string>
-    <string name="miui_vertical_time_format_24">"HH
-mm"</string>
     <string name="mix">MIX</string>
     <string name="moment">Moment</string>
     <string name="monday">Monday</string>
@@ -376,7 +385,6 @@ mm"</string>
     <string name="night">PM</string>
     <string name="no_notification_tips">No notifications.</string>
     <string name="noon">PM</string>
-    <string name="notice_audition">Nature sounds</string>
     <string name="notificationxylophone">Notification (Xylophone)</string>
     <string name="orange">Orange</string>
     <string name="partys_day">建党节</string>
@@ -384,9 +392,6 @@ mm"</string>
     <string name="peace_day">和平紀念</string>
     <string name="pm">PM</string>
     <string name="potion">Potion</string>
-    <string name="presentation_payphone">Payphone</string>
-    <string name="presentation_private">Private number</string>
-    <string name="presentation_unknown">Unknown number</string>
     <string name="radar">Radar</string>
     <string name="raindrops">Raindrops</string>
     <string name="retrocession_day">光復節</string>
@@ -478,10 +483,5 @@ mm"</string>
     <string name="windchime">Wind chimes</string>
     <string name="winter_begins">立冬</string>
     <string name="winter_solstice">冬至</string>
-    <string name="yellow_page_module_sms_sent">SMS sent</string>
-    <string name="yellow_page_sms_disabled_in_privacy_mode">"Can't send messages in Guest mode"</string>
-    <string name="yellow_page_sms_send_failed">"Couldn't send SMS"</string>
-    <string name="yellow_page_sms_sending">Sending…</string>
-    <string name="yellow_page_unable_send_sms">"Can't send SMS"</string>
     <string name="yesterday">Yesterday</string>
 </resources>

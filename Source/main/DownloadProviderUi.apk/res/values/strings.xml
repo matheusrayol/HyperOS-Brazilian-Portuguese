@@ -148,7 +148,7 @@
     <string name="dialog_file_missing_body">"Couldn't find file, looks like it's been deleted."</string>
     <string name="dialog_file_missing_title">"Can't open file"</string>
     <string name="dialog_msg_disabled_net">%1$s restricted downloads for the current network.Tap Network settings to go to the Security app.</string>
-    <string name="dialog_msg_recommend">"You won't be able to view recommended sources after you turn off. You can choose \"Only load content using Wi-Fi\" to save mobile data."</string>
+    <string name="dialog_msg_recommend">"You won't be able to view recommended sources after you turn off. You can choose \"Only load content using WLAN\" to save mobile data."</string>
     <string name="dialog_privacy_update_button1">Cancel</string>
     <string name="dialog_privacy_update_button2">Agree</string>
     <string name="dialog_privacy_update_title">Updated Privacy Policy</string>
@@ -190,7 +190,6 @@
     <string name="download_status_paused">Pause</string>
     <string name="download_success">Download complete</string>
     <string name="download_wait_connect">Waiting to connect</string>
-    <string name="download_waiting">Pending</string>
     <string name="downloaded_empty">Empty</string>
     <string name="downloading">Downloading…</string>
     <string name="downloading_empty">Empty</string>
@@ -230,10 +229,10 @@
     <string name="fmt_date_long_year_month_day">MMMM d, yyyy</string>
     <string name="fmt_date_numeric_day">d</string>
     <string name="fmt_date_numeric_month">M</string>
-    <string name="fmt_date_numeric_month_day">M/d</string>
+    <string name="fmt_date_numeric_month_day">M-d</string>
     <string name="fmt_date_numeric_year">yyyy</string>
-    <string name="fmt_date_numeric_year_month">M/yyyy</string>
-    <string name="fmt_date_numeric_year_month_day">M/d/yyyy</string>
+    <string name="fmt_date_numeric_year_month">M-yyyy</string>
+    <string name="fmt_date_numeric_year_month_day">M-d-yyyy</string>
     <string name="fmt_date_short_month">MMM</string>
     <string name="fmt_date_short_month_day">MMM d</string>
     <string name="fmt_date_short_year_month">MMM yyyy</string>
@@ -251,10 +250,10 @@
     <string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string>
     <string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
     <string name="fmt_time_12hour_pm">ha</string>
-    <string name="fmt_time_24hour">"HH 'o''clock'"</string>
-    <string name="fmt_time_24hour_minute">HH:mm</string>
-    <string name="fmt_time_24hour_minute_second">HH:mm:ss</string>
-    <string name="fmt_time_24hour_minute_second_millis">HH:mm:ss.S</string>
+    <string name="fmt_time_24hour">"H 'o''clock'"</string>
+    <string name="fmt_time_24hour_minute">H:mm</string>
+    <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
+    <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
     <string name="fmt_time_millis">"S'ms'"</string>
     <string name="fmt_time_minute">"m'min'"</string>
     <string name="fmt_time_minute_second">"m'min' s's'"</string>
@@ -292,7 +291,7 @@
     <string name="hide_bottom_view_on_scroll_behavior">miuix.android.miracle.behavior.HideBottomViewOnScrollBehavior</string>
     <string name="hint">Attention</string>
     <string name="hundredmillions" />
-    <string name="info_flow_only_load_wifi">Only load content using Wi-Fi</string>
+    <string name="info_flow_only_load_wifi">Only load content using WLAN</string>
     <string name="info_flow_setting">Content settings</string>
     <string name="info_flow_show">Show recommended content</string>
     <string name="info_rank_show">Recommend popular items</string>

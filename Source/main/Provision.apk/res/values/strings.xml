@@ -27,7 +27,6 @@
     <string name="abc_shareactionprovider_share_with">Share with</string>
     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
-    <string name="access_calendar">Access calendar</string>
     <string name="access_non_personal_data">If you withdraw consent to the access and use of non-personal data from your device, Wallpaper Carousel services will be deactivated and any collected data will be deleted within the period specified in applicable laws and regulations.</string>
     <string name="accessibility_enabled">Accessibility enabled.</string>
     <string name="actionbar_button_up_description">Back</string>
@@ -57,11 +56,8 @@
     <string name="am">AM</string>
     <string name="androidx_startup">androidx.startup</string>
     <string name="app_name">Provision</string>
-    <string name="application_extension_service">Application extension services</string>
-    <string name="application_extension_service_introduction">Application extension services will provide you with sign-in and verification features. In order to provide basic services, this app needs the following permissions:</string>
     <string name="application_package_introduction">Package installer is used for installing third-party apps, including pre-installation scanning and post-installation app recommendation services.</string>
     <string name="application_permissions">App permissions</string>
-    <string name="aquire_device_info">Access device info</string>
     <string name="authority_introduction">Permissions manager is a basic service that allows you to manage app permissions on this device.</string>
     <string name="back">Back</string>
     <string name="backup_introduction">You can use this app to back up and restore items on your device.</string>
@@ -71,7 +67,6 @@
     <string name="boot_video_replay">Play again</string>
     <string name="boot_video_skip">Skip</string>
     <string name="calculator_introduction">You can use this app for calculations, converting units and currencies, and estimating your mortgage repayments.</string>
-    <string name="calendar_storage">Calendar storage</string>
     <string name="camera_application_introduction">You can use this app to take photos and videos.</string>
     <string name="camera_introduction">You can use Camera to take photos and shoot videos.</string>
     <string name="carousel_cookies_content"><Data>When you tap images and stories in Wallpaper Carousel, their full versions will be opened in your browser. Our trusted third party content provider can then recommend additional content and ads that are tailored to your interests. If you agree to activate this feature, they will place cookies in your browser, as described in this &lt;a href=\"%1$s\">Cookie Policy&lt;/a>. If you decline cookies, Wallpaper Carousel will still work but its content and recommendations might stop being relevant to you. You can always change your preferences in Settings.</Data></string>
@@ -80,7 +75,7 @@
     <string name="carousel_privacy"><Data>"Read and agree to our trusted third party service provider's &lt;a href=\"%1$s\">Privacy Policy&lt;/a> and &lt;a href=\"%2$s\">User Agreement&lt;/a> before using Wallpaper Carousel."</Data></string>
     <string name="carousel_setting">Set up your Lock screen</string>
     <string name="carousel_setting_sub">Wallpaper Carousel will show you fresh stories every time you unlock your device</string>
-    <string name="carrier_introduction_china">In order to improve the quality of services provided to you, the programs running on this device (including SystemHelper, RegService, and Carrier services) might send the information about this device or your SIM card (including IMEI, IMSI, MSISDN, MEID, ICCID, MAC address, system version, Android version, device model, basic hardware configuration, and phone number), as well as your approximate location (including region, coordinates, neighborhood identifier, and base station ID), to your carrier via Wi-Fi, mobile networks, or SMS. Mobile carriers guarantee that this information will only be used for analysis, service quality improvements, or providing customized services or technologies and will never be shared with anyone in a way that might allow to identify you personally. Refer to the relevant statement from your carrier for details. You can inquire about all related service fees directly from your carrier.</string>
+    <string name="carrier_introduction_china">In order to improve the quality of services provided to you, the programs running on this device (including SystemHelper, RegService, and Carrier services) might send the information about this device or your SIM card (including IMEI, IMSI, MSISDN, MEID, ICCID, MAC address, system version, Android version, device model, basic hardware configuration, and phone number), as well as your approximate location (including region, coordinates, neighborhood identifier, and base station ID), to your carrier via WLAN, mobile networks, or SMS. Mobile carriers guarantee that this information will only be used for analysis, service quality improvements, or providing customized services or technologies and will never be shared with anyone in a way that might allow to identify you personally. Refer to the relevant statement from your carrier for details. You can inquire about all related service fees directly from your carrier.</string>
     <string name="check_box_label">"&lt;Data>By turning on this feature, you're agreeing to its &lt;a href=%1$s>Privacy Policy&lt;/a >.&lt;/Data>"</string>
     <string name="chinese_day_1">初一</string>
     <string name="chinese_day_10">初十</string>
@@ -154,7 +149,7 @@
     <string name="clock_introduction">You can use this app to view time, as well as use timer, world clock, stopwatch, set alarms, and more.</string>
     <string name="close">Close</string>
     <string name="close_location_service_setting">You can choose turn off location access in Settings > Privacy protection > Manage or restrict permissions for individual apps in Security.</string>
-    <string name="cm_terms_content">"In order to improve the services provided to you, the mobile network operator of your choice may upload your personal data and the info about this device to its servers using Wi-Fi networks or mobile data connection. This information will only be used for statistical purposes in order to improve the quality of the services and provide more personalized content. This information won't be used to identify you personally and won't be disclosed to third parties."</string>
+    <string name="cm_terms_content">"In order to improve the services provided to you, the mobile network operator of your choice may upload your personal data and the info about this device to its servers using WLAN networks or mobile data connection. This information will only be used for statistical purposes in order to improve the quality of the services and provide more personalized content. This information won't be used to identify you personally and won't be disclosed to third parties."</string>
     <string name="cm_terms_title">Mobile Network Operator Agreement</string>
     <string name="compass_introduction">You can use this app for navigation, as well as viewing coordinates, atmospheric pressure, and altitude.</string>
     <string name="config_set_location_permissions_package" />
@@ -176,7 +171,7 @@
     <string name="cookies_title">Personalized content and cookies</string>
     <string name="copy">Copy</string>
     <string name="create_shortcut">Home screen shortcut</string>
-    <string name="data_traffic_enable_dialog_title">"If you aren't connected to Wi-Fi now, your device will use mobile data. Using mobile data may generate additional carrier fees."</string>
+    <string name="data_traffic_enable_dialog_title">"If you aren't connected to WLAN now, your device will use mobile data. Using mobile data may generate additional carrier fees."</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -191,7 +186,6 @@
     <string name="diagnose_report">Send diagnostic data to locate and analyze system issues and improve user experience. Such data may include personal information (e.g. IP, location, etc.)</string>
     <string name="disageement_abnormal_download">"If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use this service."</string>
     <string name="disagree">Cancel</string>
-    <string name="disagree_unable_serve">"If you don't agree to the above permissions, you won't be able to use this service."</string>
     <string name="disagreement_abnormal_running">"If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use this app. You can choose not to use this app or restrict permissions in the Settings in such cases."</string>
     <string name="disagreement_abnormal_running_fast_pairing">"If you don't agree to grant such permissions, you won't be able to use this app. You can choose to restrict permissions and turn off this feature in the Settings in such cases."</string>
     <string name="disagreement_application_not_working_properly">"If you don't agree to grant these permissions, you won't be able to use this app."</string>
@@ -246,10 +240,10 @@
     <string name="fmt_date_long_year_month_day">MMMM d, yyyy</string>
     <string name="fmt_date_numeric_day">d</string>
     <string name="fmt_date_numeric_month">M</string>
-    <string name="fmt_date_numeric_month_day">M/d</string>
+    <string name="fmt_date_numeric_month_day">M-d</string>
     <string name="fmt_date_numeric_year">yyyy</string>
-    <string name="fmt_date_numeric_year_month">M/yyyy</string>
-    <string name="fmt_date_numeric_year_month_day">M/d/yyyy</string>
+    <string name="fmt_date_numeric_year_month">M-yyyy</string>
+    <string name="fmt_date_numeric_year_month_day">M-d-yyyy</string>
     <string name="fmt_date_short_month">MMM</string>
     <string name="fmt_date_short_month_day">MMM d</string>
     <string name="fmt_date_short_year_month">MMM yyyy</string>
@@ -267,10 +261,10 @@
     <string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string>
     <string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
     <string name="fmt_time_12hour_pm">ha</string>
-    <string name="fmt_time_24hour">"HH 'o''clock'"</string>
-    <string name="fmt_time_24hour_minute">HH:mm</string>
-    <string name="fmt_time_24hour_minute_second">HH:mm:ss</string>
-    <string name="fmt_time_24hour_minute_second_millis">HH:mm:ss.S</string>
+    <string name="fmt_time_24hour">"H 'o''clock'"</string>
+    <string name="fmt_time_24hour_minute">H:mm</string>
+    <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
+    <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
     <string name="fmt_time_millis">"S'ms'"</string>
     <string name="fmt_time_minute">"m'min'"</string>
     <string name="fmt_time_minute_second">"m'min' s's'"</string>
@@ -298,7 +292,7 @@
     <string name="font_use_case_text_example">Body</string>
     <string name="font_use_case_title_example">Title</string>
     <string name="framework_introduction">Xiaomi service framework (Mi Push and Analytics) is a basic system service that provides push notifications, risk prevention, statistics, and analytics capabilities. In order to provide these services, we need to collect and process relevant and necessary personal information. When collecting and processing such information, we will comply with applicable laws, regulations, and other normative documents.</string>
-    <string name="framwork_base_service">"In order to provide push notification functionality, we need to collect device identifiers (OAID and encrypted Android ID), information about the apps that use the push service (e.g. app package name, version, and runtime status), device manufacturer, device model, device memory, operating system version, region, name of the SIM card carrier name, current network type, and the Wi-Fi status. You can change the way you receive push notifications in Settings, and we'll provide you with push notifications based on your preferences, for which we'll also collect the information about your preferences including whether you choose to block notifications or not, and whether you allow them to appear on Lock screen.
+    <string name="framwork_base_service">"In order to provide push notification functionality, we need to collect device identifiers (OAID and encrypted Android ID), information about the apps that use the push service (e.g. app package name, version, and runtime status), device manufacturer, device model, device memory, operating system version, region, name of the SIM card carrier name, current network type, and the WLAN status. You can change the way you receive push notifications in Settings, and we'll provide you with push notifications based on your preferences, for which we'll also collect the information about your preferences including whether you choose to block notifications or not, and whether you allow them to appear on Lock screen.
 For the purposes of risk prevention, statistics, and analytical processing, we need permission to connect to the network and access your location, device IMEI, device IMSI, device identifiers (OAID, MAC address, and encrypted Android ID), device manufacturer, device model, device memory, operating system version, region, and current network type. The above information will be collected once a day for as long as you use this device."</string>
     <string name="friday">Friday</string>
     <string name="friday_short">Fri</string>
@@ -328,14 +322,12 @@ For the purposes of risk prevention, statistics, and analytical processing, we n
     <string name="install_preinstall_app">Loading apps…</string>
     <string name="intent_filter_verification_service">Intent Filter Verification Service</string>
     <string name="interconnection_communication_introduction">Xiaomi Internet Communication Services lets you discover, connect, and communicate with other devices.</string>
-    <string name="interconnection_service_global_item_title">Xiaomi Interconnectivity</string>
-    <string name="interconnection_service_global_label">"&lt;Data>Xiaomi Interconnectivity allows your devices to interact with each other wirelessly. By toggling this switch on, you're agreeing to the Xiaomi Interconnectivity's &lt;a href=%1$s>Privacy Policy&lt;/a >.&lt;/Data>"</string>
     <string name="interconnection_service_summary_china">"Xiaomi Interconnectivity Services allow your devices to interact with each other wirelessly. These services include Mi Smart Play, casting, app handoff, Home screen+, shared clipboard, cross-device image capture, network assistance, shared keyboards and mice, shared camera, and Mi Smart Hub.To be able to work normally, Xiaomi Interconnectivity Services need to connect to the internet and require the following permissions:
 \u0009\u0009Mi Smart Play and casting:
 \u0009\u0009Turn Bluetooth on or off
 \u0009\u0009For discovering nearby devices to connect to via Bluetooth
-\u0009\u0009Turn Wi-Fi on or off
-\u0009\u0009For discovering nearby devices and transferring items via Wi-Fi
+\u0009\u0009Turn WLAN on or off
+\u0009\u0009For discovering nearby devices and transferring items via WLAN
 \u0009\u0009Transfer items to other devices
 \u0009\u0009For establishing a Bluetooth connection between devices and transferring items
 \u0009\u0009Access location info
@@ -351,8 +343,8 @@ For the purposes of risk prevention, statistics, and analytical processing, we n
 \u0009\u0009App handoff and Home screen+:
 \u0009\u0009Turn Bluetooth on or off
 \u0009\u0009For discovering nearby devices via Bluetooth
-\u0009\u0009Turn Wi-Fi on or off
-\u0009\u0009For discovering nearby devices and transferring items via Wi-Fi
+\u0009\u0009Turn WLAN on or off
+\u0009\u0009For discovering nearby devices and transferring items via WLAN
 \u0009\u0009Access device MAC address
 \u0009\u0009For recognizing connected devices
 \u0009\u0009Access photos, videos, and audio stored on the device
@@ -366,8 +358,8 @@ For the purposes of risk prevention, statistics, and analytical processing, we n
 \u0009\u0009Shared clipboard and cross-device image capture:
 \u0009\u0009Turn Bluetooth on or off
 \u0009\u0009For discovering nearby devices via Bluetooth
-\u0009\u0009Turn Wi-Fi on or off
-\u0009\u0009For discovering nearby devices and transferring items via Wi-Fi
+\u0009\u0009Turn WLAN on or off
+\u0009\u0009For discovering nearby devices and transferring items via WLAN
 \u0009\u0009Access photos, videos, and audio stored on the device
 \u0009\u0009For sending and receiving transferred content
 \u0009\u0009Access clipboard
@@ -375,8 +367,8 @@ For the purposes of risk prevention, statistics, and analytical processing, we n
 \u0009\u0009Network assistance, shared keyboards and mice, and shared camera:
 \u0009\u0009Turn Bluetooth on or off
 \u0009\u0009For discovering nearby devices via Bluetooth
-\u0009\u0009Turn Wi-Fi on or off
-\u0009\u0009For discovering nearby devices and transferring items via Wi-Fi
+\u0009\u0009Turn WLAN on or off
+\u0009\u0009For discovering nearby devices and transferring items via WLAN
 \u0009\u0009Access photos, videos, and audio stored on the device
 \u0009\u0009For sending and receiving transferred content
 \u0009\u0009Access camera
@@ -384,15 +376,14 @@ For the purposes of risk prevention, statistics, and analytical processing, we n
 \u0009\u0009Mi Smart Hub:
 \u0009\u0009Turn Bluetooth on or off
 \u0009\u0009For discovering nearby devices via Bluetooth
-\u0009\u0009Turn Wi-Fi on or off
-\u0009\u0009For discovering nearby devices and transferring items via Wi-Fi
+\u0009\u0009Turn WLAN on or off
+\u0009\u0009For discovering nearby devices and transferring items via WLAN
 \u0009\u0009Record internal device audio
 \u0009\u0009For transferring and playing audio between devices while casting and mirroring
 \u0009\u0009Access photos, videos, and audio stored on the device
 \u0009\u0009For sending and receiving transferred content
 If you don't agree to grant these permissions, you won't be able to use these services.
 Avavailable interconnectivity services may differ based on your system version and device model. Find more information at %s."</string>
-    <string name="interconnection_service_summary_global">"Xiaomi Interconnectivity features may vary depending on device model and system version. Visit the system's official website to learn more."</string>
     <string name="interconnection_service_title">Xiaomi Interconnectivity Services</string>
     <string name="item_contents_wwarning">"If your device goes missing, you won't be able to prevent other people from using it and accessing your data unless you set a screen lock. Skip anyway?"</string>
     <string name="item_facerecognition">Face unlock</string>
@@ -557,7 +548,6 @@ You can control this feature from Settings > Passwords &amp; security > Privacy 
     <string name="permission_account">Access accounts on your device</string>
     <string name="permission_account_introduction">For signing in with Xiaomi Account</string>
     <string name="permission_application_package_introduction">For accessing storage in order to parse and scan installation packages</string>
-    <string name="permission_application_scope_description">"We only use these permissions when performing security verification, and won't use them for any other purpose."</string>
     <string name="permission_authority_describe">Access the list of apps installed on this device</string>
     <string name="permission_authority_describe_applist_summary">For managing app permissions</string>
     <string name="permission_backup">Accessing storage</string>
@@ -592,10 +582,10 @@ You can control this feature from Settings > Passwords &amp; security > Privacy 
     <string name="permission_interaction_introduction">For saving photos and videos on device</string>
     <string name="permission_location">Access location info:</string>
     <string name="permission_location_describe">Access location</string>
-    <string name="permission_location_describe_desktop_summary">For accessing Wi-Fi network names;</string>
+    <string name="permission_location_describe_desktop_summary">For accessing WLAN network names;</string>
     <string name="permission_location_describe_fast_application_summary">For allowing quick apps to access your location;</string>
     <string name="permission_location_describe_fast_pairing_summary">For displaying the available low power consuming Bluetooth devices;</string>
-    <string name="permission_location_describe_interconnection_communication_summary">For accessing your location to provide discovery and connection services using Bluetooth or Wi-Fi;</string>
+    <string name="permission_location_describe_interconnection_communication_summary">For accessing your location to provide discovery and connection services using Bluetooth or WLAN;</string>
     <string name="permission_location_describe_location_summary">For accessing your exact location to provide a variety of location-based services.</string>
     <string name="permission_location_introduction">For providing location-based services</string>
     <string name="permission_log_introduction">For saving logs</string>
@@ -604,7 +594,6 @@ You can control this feature from Settings > Passwords &amp; security > Privacy 
     <string name="permission_make_a_call_fast_application_summary">For allowing quick apps to make calls;</string>
     <string name="permission_media_storage_summary">For checking how apps use privacy-related permissions while accessing files</string>
     <string name="permission_message_introduction">For sending messages to blocked contacts</string>
-    <string name="permission_not_agree_service_not_working">"If you don't agree to the aforementioned required permissions, you won't be able to use this service."</string>
     <string name="permission_number">Access phone number</string>
     <string name="permission_number_introduction">For establishing Bluetooth connection with car systems and Bluetooth earphones</string>
     <string name="permission_phone_imei_device">For accessing IMEI in order to identify devices</string>
@@ -653,7 +642,6 @@ You can control this feature from Settings > Passwords &amp; security > Privacy 
     <string name="permission_recording_introduction">For recording audio while recording video</string>
     <string name="permission_screen_shoot_introduction">For accessing and saving screen recordings</string>
     <string name="permission_send_message">Send SMS</string>
-    <string name="permission_sms_verification_code_login">For providing SMS verification for quick sign-in</string>
     <string name="permission_uniquely_identifiable_information">Access unique identifiers of this device</string>
     <string name="permission_uniquely_identifiable_information_summary">Access MAC address and device OAID for discovering, connecting, and communicating with other devices</string>
     <string name="permission_use_bluetooth">Use Bluetooth</string>
@@ -667,7 +655,7 @@ You can control this feature from Settings > Passwords &amp; security > Privacy 
     <string name="permission_use_microphone_camera_summary">For recording audio while recording video;</string>
     <string name="permission_use_microphone_desktop_summary">For showing recording status.</string>
     <string name="permission_use_microphone_fast_application_summary">For allowing quick apps to access the microphone;</string>
-    <string name="permission_use_wlan">Use Wi-Fi</string>
+    <string name="permission_use_wlan">Use WLAN</string>
     <string name="permission_use_wlan_summary">For discovering, connecting, and communicating with devices nearby</string>
     <string name="permission_user_record_introduction">For recording audio</string>
     <string name="permission_virusscan_introduction">For performing virus scan and optimizing your device</string>
@@ -693,15 +681,12 @@ You can control this feature from Settings > Passwords &amp; security > Privacy 
     <string name="privacy_refuse">"Don't agree"</string>
     <string name="privacy_title">Terms &amp; Privacy Policy</string>
     <string name="protect_persoanl_info_statement">We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies.</string>
-    <string name="provide_date_management_service">This service allows you to check the date and manage events.</string>
     <string name="provision_back">Back</string>
     <string name="provision_inputmethod_policy_description"><Data>View the &lt;a href=%1$s>Privacy Policy&lt;/a > of your selected keyboard.</Data></string>
     <string name="provision_inputmethod_policy_description1">Privacy Policy</string>
     <string name="provision_next">Next</string>
     <string name="provision_skip_underline">Skip</string>
     <string name="qualcomm_introduction">com.qualcomm.qti.workloadclassifier is a service that manages system processes.</string>
-    <string name="read_application_info">Access app info</string>
-    <string name="read_sms_and_mms">Access SMS and MMS</string>
     <string name="recommend_font">MiSans</string>
     <string name="recommended_font_mark">Recommended</string>
     <string name="recorder_introduction">You can use this app to record audio and back up recordings to the cloud.</string>
@@ -716,9 +701,6 @@ You can control this feature from Settings > Passwords &amp; security > Privacy 
     <string name="require_network_and_authority_statement">To be able to work normally, this service needs to connect to the internet and requires the following permissions:</string>
     <string name="require_network_authority_statement">To be able to work normally, this service needs to connect to the internet and requires the following permissions:</string>
     <string name="require_network_authority_statement_dual">To be able to work normally, this service needs to connect to the internet and requires the following permissions:</string>
-    <string name="require_statement">In order to provide basic services, we need the following permissions:</string>
-    <string name="safe_open_service">Secure open services</string>
-    <string name="safe_open_service_introduction">Secure open services assist developers and provide system-level security capabilities to protect users and their privacy.</string>
     <string name="saturday">Saturday</string>
     <string name="saturday_short">Sat</string>
     <string name="saturday_shortest">Sat</string>
@@ -948,12 +930,9 @@ You must agree to Mint Keyboard Privacy Policy before using this feature."</stri
     <string name="tuesday">Tuesday</string>
     <string name="tuesday_short">Tue</string>
     <string name="tuesday_shortest">Tue</string>
-    <string name="used_date_viewing">For checking the date</string>
     <string name="user_agreement">User Agreement</string>
     <string name="v7_preference_off">OFF</string>
     <string name="v7_preference_on">ON</string>
-    <string name="verify_application_security">For verifying app security</string>
-    <string name="verify_device_security">For verifying device security</string>
     <string name="voice_assist_desp">Say \"Mi AI\" into your phone. Mi AI will recognize your voice and will be able to control your device.</string>
     <string name="voice_assist_title">Wake with voice</string>
     <string name="wc_dialog_agree">Agree</string>
